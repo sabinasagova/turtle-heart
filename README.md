@@ -6,3 +6,4 @@ Generates an animated heart using Python's turtle graphics.
 
 ```bash
 python3 src/heart.py
+python3 src/heart2.py

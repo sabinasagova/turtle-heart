@@ -1,5 +1,5 @@
 import math
-from turtle import*
+from turtle import *
 
 def heart1(M):
     return 15*math.sin(M)**3
