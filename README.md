@@ -1,6 +1,6 @@
 # Turtle Heart (Python)
 
-Generates a animated heart using Python's turtle graphics.
+Generates an animated heart using Python's turtle graphics.
 
 ## Run
 
